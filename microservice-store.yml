@@ -1,4 +1,1 @@
-management:
-  security:
-    enabled: false
-message: Hola Nuevo
+message: Hola Mundo
